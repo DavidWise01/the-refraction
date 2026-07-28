@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1772
+slug  : the-refraction
+seal  : 11ce352252cf3c7a6cbb283797a08789784ce82029c96fa961c8a908075ba583
+prev  : 7c71ceafd1ad5ef46151e4c431edb28f65717542fac784cbbd1f5b85ddce9b99
+link  : 6b8cc5422063cd1673350c01dd87882f4cec78d4ae503be523657f7756e9b15e
+head  : 16169f11861745ac632086146282f9dafacd50fce6778d99f7c95b17e284f0d4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
